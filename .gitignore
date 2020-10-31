@@ -1,0 +1,5 @@
+tmp/
+cats_n_dogs/
+kagglecatsanddogs_3367a.zip
+.DS_store
+*.ipynb_checkpoints
